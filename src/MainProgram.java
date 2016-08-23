@@ -1,11 +1,11 @@
-import java.io.IOException;
+
 
 public class MainProgram {
 
 	public static void main(String[] args) throws Exception
 	{
 		//object is created for Enum
-	/*	Enum e=new Enum();
+	    Enum e=new Enum();
 		e.size=Enum.FruitSize.M;
 		e.fruit(e.size);
 		// End of Program
@@ -35,17 +35,17 @@ public class MainProgram {
 		b.oopbyte();
 		
 		//Exception
-		exception e=new exception();
-		e.getdata(10,15);
-		e.cal();
+		exception e1=new exception();
+		e1.getdata(10,15);
+		e1.cal();
 		
 		
 		//CompareString
 		CompareString cs=new CompareString();
 		cs.stringcompare();
 		
-		*/
-		// get current tym
+		
+		//get current tym
          datetime dt=new datetime();
          dt.getcurrenttime();
 	}
