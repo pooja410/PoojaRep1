@@ -19,7 +19,7 @@ public class Java {
          {
         	 System.out.println(num[i]+" ");
          }
-         
+         System.out.println(" ");
          
         /// changed made for new branch
         
